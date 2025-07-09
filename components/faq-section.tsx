@@ -122,7 +122,7 @@ export function FaqSection() {
           <p className="text-slate-400 mb-4">Still have questions?</p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <a
-              href="https://github.com/nodon/nodon/discussions"
+              href="https://discord.com/invite/32QKxVcG"
               className="inline-flex items-center space-x-2 text-emerald-400 hover:text-emerald-300 transition-colors"
             >
               <span>Join our community discussions</span>
